@@ -1,4 +1,4 @@
-### Hi there, I'm Tuan. I'm a Control Engineering and Automation student in HCMUT  👋 
+### Hi there, I'm Thanh Tuan. I'm a Control Engineering and Automation student in HCMUT  👋 
 
 
 
