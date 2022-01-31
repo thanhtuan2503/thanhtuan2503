@@ -13,11 +13,9 @@
 
 <p align="center">
 
-| Language | Simualation | PCB Design|
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width = 60/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width = 82/> ![assembly](Images/assm.jpg)| ![Matlab](Images/matlab.png) ![Proteus](Images/proteus.png)|![KiCad](Images/kicad.png) ![Pspice](Images/pspice.png)|
-
-
+| Language | Simualation | PCB Design| Others|
+|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" width = 60/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width = 82/> ![assembly](Images/assm.jpg)| ![Matlab](Images/matlab.png) ![Proteus](Images/proteus.png)|![KiCad](Images/kicad.png) ![Pspice](Images/pspice.png)|![Atmel](Images/atmel.jfif) ![Arduino](Images/arduino.jpg)|
 </p>
 
 # Social Network:
